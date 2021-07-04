@@ -75,13 +75,13 @@ span {
 }
 
 .e-item {
-    margin: 0 10px;
+    margin: 0 20px;
     padding: 15px 25px 25px;
     border-left: 5px solid;
     border-image: linear-gradient(#12223e, #3769c3);
     border-image-slice: 1;
     border-radius: 5px;
-    box-shadow: 5px 5px 10px grey;
+    box-shadow: 5px 5px 15px grey;
 }
 
 #experience {
